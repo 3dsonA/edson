@@ -1,2 +1,11 @@
 # edson
-ola meu nome e edson tenho16 ano sou estudante, faço cursos e terminei alguns diplomado sendo eles: informática, inglês e adm, atualmente estou estudando na área de programação.   
+
+Meu nome e EDSON ARRIAGA
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+VOCÊ PODE ENTRAR EM CONTATO COMIGO 
+00001104586447sp@al.educacao.sp.gov.br
